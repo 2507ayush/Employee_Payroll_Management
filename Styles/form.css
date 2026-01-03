@@ -1,0 +1,24 @@
+
+     .header {
+      background-color: white;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      padding: 0px 90px;
+    }
+    .header img {
+      height: 60px;
+    }
+
+    .cancel, .submit, .reset {
+      background-color:#969696;
+      color: black;
+      padding: 8px 16px;
+      border-radius: 4px;
+    } 
+    p{
+      display: none;
+    }
+    #btn11:hover{
+      background-color: #82A70C;
+    }
