@@ -1,0 +1,959 @@
+{
+  "employees": [
+    {
+      "id": "4306",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "16 Dec 2005"
+    },
+    {
+      "id": "3bc1",
+      "name": "Sahil Verma",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Sales",
+        "Engineer",
+        "Others"
+      ],
+      "salary": "30000",
+      "startDate": "30 Feb 2003"
+    },
+    {
+      "id": "3560",
+      "name": "Janvi Rana",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "13 Sept 2014"
+    },
+    {
+      "id": "6147",
+      "name": "Aditya",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "17 Aug 2014"
+    },
+    {
+      "id": "c8ab",
+      "name": "pradeep",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "50000",
+      "startDate": "17 Mar 2018"
+    },
+    {
+      "id": "f4cf",
+      "name": "Mradul Sharma",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "18 Sept 2016"
+    },
+    {
+      "id": "cecd",
+      "name": "hemant kumar",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "HR"
+      ],
+      "salary": "40000",
+      "startDate": "16 Dec 2000"
+    },
+    {
+      "id": "ea72",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "5 Jan 2007"
+    },
+    {
+      "id": "2813",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "25 Jul 2004"
+    },
+    {
+      "id": "f0f9",
+      "name": "Hemant Kumar",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "salary": "50000",
+      "startDate": "16 Dec 2016"
+    },
+    {
+      "id": "d466",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "HR"
+      ],
+      "salary": "40000",
+      "startDate": "17 Oct 2015"
+    },
+    {
+      "id": "d70f",
+      "name": "dwvfe",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "19 Dec 2018"
+    },
+    {
+      "id": "7bf0",
+      "name": "vhbnm",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "30 Oct 2017"
+    },
+    {
+      "id": "1d98",
+      "name": "tanga",
+      "gender": "Female",
+      "profileImg": "profile4.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "14 Dec 2018"
+    },
+    {
+      "id": "3db9",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "25 Jul 2004"
+    },
+    {
+      "id": "195b",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "5 Jan 2007"
+    },
+    {
+      "id": "2e90",
+      "name": "dfvd",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "19 Nov 2016"
+    },
+    {
+      "id": "5a92",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "19 Nov 2017"
+    },
+    {
+      "id": "a876",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "19 Aug 2005"
+    },
+    {
+      "id": "c1f4",
+      "name": "Divyansh Singh",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Sales",
+        "Engineer",
+        "Others"
+      ],
+      "salary": "30000",
+      "startDate": "17 Jun 2015"
+    },
+    {
+      "id": "cfe4",
+      "name": "jayant kumar",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Others"
+      ],
+      "salary": "40000",
+      "startDate": "18 Nov 2017"
+    },
+    {
+      "id": "f271",
+      "name": "pari verma",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "19 Apr 2016"
+    },
+    {
+      "id": "ca76",
+      "name": "divyanshu",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "17 Sept 2012"
+    },
+    {
+      "id": "d317",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "19 Oct 2016"
+    },
+    {
+      "id": "85ea",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "15 Nov 2021"
+    },
+    {
+      "id": "e0c6",
+      "name": "ankurr",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "HR"
+      ],
+      "salary": "40000",
+      "startDate": "9 Oct 2015"
+    },
+    {
+      "id": "8400",
+      "name": "Shreyash Singh",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "HR",
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "10 Nov 2006"
+    },
+    {
+      "id": "a2a0",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "17 Oct 2014"
+    },
+    {
+      "id": "09b3",
+      "name": "ayush agarwal",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "17 Jul 2010"
+    },
+    {
+      "id": "61a2",
+      "name": "Shreya Shukla",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Others"
+      ],
+      "salary": "30000",
+      "startDate": "16 Dec 2006"
+    },
+    {
+      "id": "879f",
+      "name": "Bhargav Dixit",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "salary": "30000",
+      "startDate": "19 Oct 2016"
+    },
+    {
+      "id": "6972",
+      "name": "Tanya Malhotra",
+      "gender": "Female",
+      "profileImg": "profile4.png",
+      "department": [
+        "HR",
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "14 Aug 2018"
+    },
+    {
+      "id": "bfca",
+      "name": "avantika",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "18 Oct 2021"
+    },
+    {
+      "id": "b469",
+      "name": "ayush",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "13 Nov 2015"
+    },
+    {
+      "id": "a6c2",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "16 Oct 2014"
+    },
+    {
+      "id": "a012",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "16 Nov 2015"
+    },
+    {
+      "id": "4f3f",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "14 Sept 2013"
+    },
+    {
+      "id": "3c30",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "17 Sept 2015"
+    },
+    {
+      "id": "d45d",
+      "name": "ayush",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "16 Sept 2012"
+    },
+    {
+      "id": "d418",
+      "name": "Ayushman verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "10 Nov 2015"
+    },
+    {
+      "id": "475d",
+      "name": "Ayushman verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "18 Sept 2015"
+    },
+    {
+      "id": "5c94",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "12 Dec 2010"
+    },
+    {
+      "id": "f1ac",
+      "name": "Shivani Mishra",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "16 Nov 2015"
+    },
+    {
+      "id": "5198",
+      "name": "Divyansh Singh",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "HR",
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "16 Oct 2015"
+    },
+    {
+      "id": "dd36",
+      "name": "Shreyash Singh",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "14 Jul 2016"
+    },
+    {
+      "id": "8b58",
+      "name": "Divya Singh",
+      "gender": "Female",
+      "profileImg": "profile4.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "11 Jun 2010"
+    },
+    {
+      "id": "e778",
+      "name": "Dhruv Sharma",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "30000",
+      "startDate": "12 Aug 2009"
+    },
+    {
+      "id": "4d6e",
+      "name": "anchal",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Others"
+      ],
+      "salary": "40000",
+      "startDate": "13 May 2015"
+    },
+    {
+      "id": "ccd6",
+      "name": "Zunaid ahmed",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "12 Oct 2013"
+    },
+    {
+      "id": "9d7b",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "12 Sept 2016"
+    },
+    {
+      "id": "61b9",
+      "name": "diya deshwal",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "16 Nov 2017"
+    },
+    {
+      "id": "8368",
+      "name": "Divya thakur",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "15 Jul 2013"
+    },
+    {
+      "id": "eb3c",
+      "name": "scdvf",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "50000",
+      "startDate": "18 Oct 2013"
+    },
+    {
+      "id": "c243",
+      "name": "ignis khan",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "17 Oct 2016"
+    },
+    {
+      "id": "d25a",
+      "name": "ayushssss",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "16 Oct 2014"
+    },
+    {
+      "id": "5cd7",
+      "name": "ayush",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "13 Oct 2017"
+    },
+    {
+      "id": "9e4d",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "16 May 2013"
+    },
+    {
+      "id": "9188",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "12 Apr 2017"
+    },
+    {
+      "id": "967c",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "15 Oct 2012"
+    },
+    {
+      "id": "48e4",
+      "name": "Indu",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Others"
+      ],
+      "salary": "30000",
+      "startDate": "17 Mar 2007"
+    },
+    {
+      "id": "985b",
+      "name": "Bhargav",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "HR"
+      ],
+      "salary": "40000",
+      "startDate": "15 Apr 2012"
+    },
+    {
+      "id": "3c49",
+      "name": "Indu",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "11 Apr 2014"
+    },
+    {
+      "id": "6a6c",
+      "name": "bhargav",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "12 Mar 2012"
+    },
+    {
+      "id": "0b6c",
+      "name": "indu",
+      "gender": "Female",
+      "profileImg": "profile4.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "17 Sept 2025"
+    },
+    {
+      "id": "1ea3",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "12 Nov 2015"
+    },
+    {
+      "id": "ff7e",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Others"
+      ],
+      "salary": "40000",
+      "startDate": "15 Aug 2018"
+    },
+    {
+      "id": "0047",
+      "name": "Bhargav",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "12 Jun 2014"
+    },
+    {
+      "id": "258c",
+      "name": "indu",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "50000",
+      "startDate": "18 Jun 2011"
+    },
+    {
+      "id": "9dff",
+      "name": "dheeraj",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "startDate": "16 Oct 2018"
+    },
+    {
+      "id": "2fd3",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "14 Aug 2016"
+    },
+    {
+      "id": "1be0",
+      "name": "ayush",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "50000",
+      "startDate": "13 Oct 2017"
+    },
+    {
+      "id": "3203",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile2.png",
+      "department": [
+        "HR",
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "12 May 2015"
+    },
+    {
+      "id": "c883",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "16 Sept 2013"
+    },
+    {
+      "id": "4ff7",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "50000",
+      "startDate": "15 Apr 2011"
+    },
+    {
+      "id": "3e52",
+      "name": "Khushi Tomar",
+      "gender": "Female",
+      "profileImg": "profile2.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "15 Mar 2014"
+    },
+    {
+      "id": "1767156815422",
+      "name": "Harsh sharma",
+      "gender": "Male",
+      "profileImg": "profile3.png",
+      "departments": [
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "30000",
+      "formattedSalary": "₹30000",
+      "startDate": "14 Dec 2006"
+    },
+    {
+      "id": "1767156869949",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "departments": [
+        "Finance"
+      ],
+      "salary": "50000",
+      "formattedSalary": "₹50000",
+      "startDate": "12 Apr 2004"
+    },
+    {
+      "id": "1767157133202",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "departments": [
+        "Engineer"
+      ],
+      "salary": "30000",
+      "formattedSalary": "₹30000",
+      "startDate": "10 Apr 2013"
+    },
+    {
+      "id": "627b",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "12 Apr 2010"
+    },
+    {
+      "id": "30b3",
+      "name": "Ayush Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "15 May 2011"
+    },
+    {
+      "id": "913e",
+      "name": "ayush",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "40000",
+      "startDate": "14 Jun 2009"
+    },
+    {
+      "id": "4012",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "12 Apr 2013"
+    },
+    {
+      "id": "2025",
+      "name": "Ayushman verma rwfgbv",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "11 Jul 2009"
+    },
+    {
+      "id": "f5bc",
+      "name": "Ayushman Verma",
+      "gender": "Male",
+      "profileImg": "profile1.png",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "salary": "40000",
+      "startDate": "11 Sept 2015"
+    }
+  ]
+}
